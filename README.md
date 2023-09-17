@@ -1,4 +1,5 @@
 # Group-9.Time-Frame-and-testing
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -12,7 +13,7 @@
             <th>Task</th>
             <th>Distribution</th>
             
-        </tr>
+</tr>
         <tr>
             <td>Week 1<br>Week 2</td>
             <td>Project Ideas and Detailed Description</td>
@@ -32,14 +33,13 @@
             <td>Week 6</td>
             <td>NLP Integration</td>
             <td>Lan Hsin will create the following discussion flow: Build a conversational flowchart outlining how the chatbot will interact with users in order to ensure a logical and intuitive experience. Then Khai Hung will need to develop the database schema or knowledge graph structure to store FAQ data. Fill up the information base with categorized questions and answers. He must ensure that the knowledge base is easily expandable and updateable for future additions or changes.
-Lastly, Quoc Vuong will complete the implementation of the chatbot backend. He may develop the necessary code or configure the chosen platform to integrate the questions and responses into chatbot system.
+            Lastly, Quoc Vuong will complete the implementation of the chatbot backend. He may develop the necessary code or configure the chosen platform to integrate the questions and responses into chatbot system.
 </td>
         </tr>
         <tr>
             <td>Week 7<br>Week 8</td>
             <td>Design and Base Development of Chatbot</td>
-            <td>Lan Hsin will create the following discussion flow: Build a conversational flowchart outlining how the chatbot will interact with users in order to ensure a logical and intuitive experience. Then Khai Hung will need to develop the database schema or knowledge graph structure to store FAQ data. Fill up the information base with categorized questions and answers. He must ensure that the knowledge base is easily expandable and updateable for future additions or changes.
-Lastly, Quoc Vuong will complete the implementation of the chatbot backend. He may develop the necessary code or configure the chosen platform to integrate the questions and responses into chatbot system.
+            <td>Lan Hsin will create the following discussion flow: Build a conversational flowchart outlining how the chatbot will interact with users in order to ensure a logical and intuitive experience. Then Khai Hung will need to develop the database schema or knowledge graph structure to store FAQ data. Fill up the information base with categorized questions and answers. He must ensure that the knowledge base is easily expandable and updateable for future additions or changes. Lastly, Quoc Vuong will complete the implementation of the chatbot backend. He may develop the necessary code or configure the chosen platform to integrate the questions and responses into chatbot system.
 </td>
         </tr>
         <tr>
@@ -59,6 +59,6 @@ Khai Hung will concentrate on improving chatbot error handling. Use the findings
             <td>By maintaining the FAQ, chatbots can provide users with up-to-date and helpful information consistently, this will be done in collaboration with the entire group. We will deploy the chatbot through the preferred platform and actively monitor its interactions with users once we are satisfied with its functionality. Later on we will Collect feedback and analyze user comments to identify areas for improvement. Feedback improves the user experience by addressing frequently asked issues and concerns. Our group will Actively seek and analyze feedback to help identify areas for improvement, which will aid us in improving the bot's accuracy and effectiveness in providing helpful responses.</td>
         </tr>
         
-    </table>
+</table>
 </body>
 </html>
