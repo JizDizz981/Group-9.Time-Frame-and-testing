@@ -1,12 +1,8 @@
 # Group-9.Time-Frame-and-testing
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Basic Table Chart</title>
 </head>
 <body>
-    <h1>Time Frame</h1>
+    <h1 style="font-size: 13;font-weight: bold;">Time Frame</h1>
     <table border="10">
         <tr>
             <th>Time</th>
