@@ -1,6 +1,5 @@
 # Group-9.Time-Frame-and-testing
 
-</head>
 <body>
     <h1 style="font-size: 13;font-weight: bold;">Time Frame</h1>
     <table border="10">
